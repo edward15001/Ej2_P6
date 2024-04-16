@@ -5,7 +5,6 @@ import java.util.Map;
 
 public class LoginSystem {
 
-    //comentario prueba
 
     private static LoginSystem instance;
     private Map<String, User> users;
