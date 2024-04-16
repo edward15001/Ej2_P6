@@ -32,6 +32,6 @@ public class LoginSystem {
     }
 
     public void welcome(User user) {
-        System.out.println("Welcome, " + user.getName() + "!");
+        System.out.println("Bienvenido, " + user.getName() + "!");
     }
 }
